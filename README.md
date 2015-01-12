@@ -16,4 +16,4 @@ Run the container:
 
 What are the various configuration values?
 
-    docker exec <container-id> cat /logs/environment_variables.log
+    docker exec <container-id> cat /logs/environment_vars.log
