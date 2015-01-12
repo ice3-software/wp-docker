@@ -6,7 +6,7 @@ Built whilst playing around / getting to grips with Docker.
 
 ###Usage
 
-Build and run the container:
+Build the container:
 
     docker build .
 
